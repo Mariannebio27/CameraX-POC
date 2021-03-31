@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_camera_capture_button">100dp</dimen>
+    <dimen name="height_camera_capture_button">100dp</dimen>
+    <dimen name="margin_bottom_camera_capture_button">50dp</dimen>
+</resources>
